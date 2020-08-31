@@ -38,6 +38,6 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = "2020-04-31"
   description = """
-  Organized the administration of first year programming including workshop development and other student events. Analyzed data collected through First Year Office evaluation and assessment activities. 
+  Organized the administration of first year programming including workshop development and other student events. Analyzed data collected through First Year Office evaluation and assessment activities.
   """
 +++
